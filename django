@@ -1,0 +1,11 @@
+Créer un projet Django :
+
+django-admin startproject nomDuProjet
+
+Laner le serveur :
+
+python3 manage.py runserver numeroduport
+
+Créer une app :
+
+python3 manage.py startapp myApp
